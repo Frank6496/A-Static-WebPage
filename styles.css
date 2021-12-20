@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    box-sizing: content-box;
+    font-family: lato;
+    font-size: 18px;
+}
+
+header, div {
+    background: #2E354F;
+}
+.section-one-p {
+    margin-bottom: 0;
+}
+h1, section {
+    margin: 0 auto;
+    padding: 20px;
+    width: 600px;
+}
+h2, a {
+    color: #EF5839;
+}
+h1 {
+    font-size: 36px
+}
+h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+a:hover, a:focus {
+    color: green;
+}
+span {
+    font-weight: bold;
+}
+.span {
+    color: #fff;
+    font-weight: regular;
+    font-size: 14px;
+}
+.btn, .btn:hover, .btn:focus {
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    color: #000;
+    background: yellow;
+}
+.first-link {
+    background: #EF5839;
+    color: #000;
+    margin-right: 20px;
+}
+.second-link {
+    background: #fff;
+    color: #000;
+}
